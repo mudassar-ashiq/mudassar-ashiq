@@ -46,16 +46,6 @@
 
 ## 🚀 Featured Projects
 
-### 🚚 MoneyGods Transport
-**Mudassar and Mubashir MoneyGods Transport Company** — a complete goods transport app built with Flutter & Firebase.
-
-- 👥 Three panels: **Admin, Driver and Customer**
-- 🗺️ **Live GPS tracking** on Google Maps during active trips
-- ⛽ Smart fare system: **distance (KM) × vehicle rate + diesel price adjustment**, with a full fare breakdown
-- 🚛 Vehicle categories: Pickup, Shahzor, Mazda and 10 Wheeler
-- 🏙️ Operating in Lahore, Karachi, Sahiwal, Multan, Faisalabad, Islamabad, Rawalpindi and Bahawalpur
-- 📦 Booking flow with live status: Pending → Confirmed → Driver Assigned → In Transit → Delivered
-
 ### 🛍️ ShopEase
 A three-screen Flutter shopping app built for CS-436 Mobile Application Development.
 
